@@ -109,5 +109,5 @@ what else we should try!
 This allows the user to construct and submit a gRPC request directly using the
 browser.
 
-We need define a standard look & feel for creating and rendering nested protobuf
+We need to define a standard look & feel for creating and rendering nested protobuf
 messages.
