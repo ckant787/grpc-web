@@ -38,7 +38,7 @@ and code size.
 
 ## Streaming-Friendly Transport Implementation
 
-Currently the gRPC-Web client library uses XHR to ensure cross-browser support
+Currently,the gRPC-Web client library uses XHR to ensure cross-browser support
 and to support platforms such as React-Native.
 
 We do plan to add fetch/streams support at some point, which is more efficient
