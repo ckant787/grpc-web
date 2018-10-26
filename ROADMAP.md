@@ -66,7 +66,7 @@ protocol.
 
 ## Compression
 
-Do you need request compression? Brotli? 
+Do you need to request compression? Brotli? 
 
 ## CORS 
 
